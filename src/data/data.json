@@ -1,0 +1,13 @@
+{
+  "stats": {
+    "totalUsers": 150,
+    "totalSales": 185000,
+    "orders": 430
+  },
+  "users": [
+    { "name": "Aishwarya", "role": "Admin", "sales": 25000 },
+    { "name": "Mahesh", "role": "Editor", "sales": 18000 },
+    { "name": "Sana", "role": "Contributor", "sales": 12000 },
+    { "name": "Raju", "role": "Support", "sales": 8000 }
+  ]
+}

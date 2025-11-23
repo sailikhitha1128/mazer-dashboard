@@ -1,0 +1,16 @@
+body {
+  background: #f3f5f7;
+}
+
+.navbar {
+  border-radius: 0 0 10px 10px;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.table {
+  border-radius: 10px;
+  overflow: hidden;
+}
